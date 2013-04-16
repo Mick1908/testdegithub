@@ -23,4 +23,4 @@ else{
     echo 'erreur 404'; 
 }
 
-?>
+?> lolo
